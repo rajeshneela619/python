@@ -1,7 +1,2 @@
-print('Hello, world rajes')
-
-hiiiii
-
-bfvieabhgbisrt
-hsbfviueabgiu
-
+print('Hello, world rajesh hiiiiiii
+      kwehfrkeanrg')
